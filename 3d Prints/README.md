@@ -15,8 +15,9 @@ changes from original chassis design:
 
 additional parts for Audacity
 - power control panel
-- voltage regulator mount
-- termanal strip mount
-- Arduino Mega Mount
-- RoboClaw mounts
-- Ultrasonic Sensors mount
+- voltage regulator and mount
+- termanal strip and mount
+- Arduino Mega and Mount
+- RoboClaw and mounts
+- Ultrasonic Sensors and mount
+- Machine Vision Camera and mount
