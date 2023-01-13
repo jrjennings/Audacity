@@ -1,5 +1,5 @@
 directory holding all 3d print files 
-this file will have pictures of all those prints
+this file will also have pictures of all those prints
 
 changes from original chassis design:
 - corner steering joints to accomidate dynamixel servo
@@ -11,4 +11,12 @@ changes from original chassis design:
 - servo parts
 - drive modules
 - battery mount
+- M3 Nut Installation tool
 
+additional parts for Audacity
+- power control panel
+- voltage regulator mount
+- termanal strip mount
+- Arduino Mega Mount
+- RoboClaw mounts
+- Ultrasonic Sensors mount
