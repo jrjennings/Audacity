@@ -4,16 +4,16 @@ this file will also have pictures of all those prints
 changes from original chassis design:
 <ul>
 <li> Dynamixel Bracket
-- corner steering joints to accomidate dynamixel servo
-- fixed knuckle for holding gearmotors
-- steering knuckle for holding gearmotors
-- wheel hub
-- wheel
-- dedents for setscrews
-- servo parts
-- drive modules
-- battery mount
-- M3 Nut Installation tool
+<li> corner steering joints to accomidate dynamixel servo
+<li> fixed knuckle for holding gearmotors
+<li> steering knuckle for holding gearmotors
+<li>wheel hub
+<li> wheel
+<li> dedents for setscrews
+<li> servo parts
+<li> drive modules
+<li> battery mount
+<li> M3 Nut Installation tool
 
 additional parts for Audacity
 - power control panel
