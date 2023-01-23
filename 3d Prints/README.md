@@ -2,7 +2,8 @@ directory holding all 3d print files
 this file will also have pictures of all those prints
 
 changes from original chassis design:
-- Dynamixel Bracket
+<ul>
+<li> Dynamixel Bracket
 - corner steering joints to accomidate dynamixel servo
 - fixed knuckle for holding gearmotors
 - steering knuckle for holding gearmotors
