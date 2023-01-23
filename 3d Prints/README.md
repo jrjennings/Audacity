@@ -7,9 +7,8 @@ changes from original chassis design:
 <li> Dynamixel Coupler
 <li> Front Corner (steering joints to accomidate dynamixel)
 <li> Rear Corner
-<li> fixed knuckle for holding gearmotors
-<li> steering knuckle for holding gearmotors
-<li> wheel hub
+<li> Fixed Knuckle (for holding gearmotors)
+<li> steering knuckle (for holding gearmotor)
 <li> wheel
 <li> dedents for setscrews
 <li> servo parts
