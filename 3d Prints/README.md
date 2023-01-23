@@ -8,8 +8,8 @@ changes from original chassis design:
 <li> Front Corner (steering joints to accomidate dynamixel)
 <li> Rear Corner
 <li> Fixed Knuckle (for holding gearmotors)
-<li> steering knuckle (for holding gearmotor)
-<li> wheel
+<li> Steering Knuckle (for holding gearmotor)
+<li> Wheel
 <li> dedents for setscrews
 <li> servo parts
 <li> drive modules
