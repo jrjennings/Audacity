@@ -4,6 +4,7 @@ this file will also have pictures of all those prints
 changes from original chassis design:
 <ul>
 <li> Dynamixel Bracket
+<li> Dynamixel Coupler
 <li> corner steering joints to accomidate dynamixel servo
 <li> fixed knuckle for holding gearmotors
 <li> steering knuckle for holding gearmotors
