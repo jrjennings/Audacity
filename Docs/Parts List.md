@@ -11,3 +11,4 @@
 | 1 | DSD Tech HC-10 Bluetooth module | Amazon | | $11.49 |
 | 4 | HC-SR04 Ultrasonic Sensors |||
 | 1 | OpenMV H7 Camera | OpenMV | | $85.00 |
+| 1 | Google Pixel 4a | |||
