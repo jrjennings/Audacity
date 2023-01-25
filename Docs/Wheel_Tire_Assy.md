@@ -1,2 +1,2 @@
- ![Alt Text](/images/Wheel.png)
+ ![Alt Text](/images/Wheel.png?raw=true "Title")
 
