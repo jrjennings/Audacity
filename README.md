@@ -11,5 +11,5 @@ Make the following modifications to original design:
 <li>add machine vision to locate orange cone and navigate towards it
 <li>add ultrasonic sensors for obstical avoidance
 <li>add a bumper touch sensor
-<li>add tire to wheel for durability more grip on smooth surfaces
+<li>add tire to wheel for durability and more grip on smooth surfaces
 </ul>
