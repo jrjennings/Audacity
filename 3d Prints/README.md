@@ -1,5 +1,5 @@
 directory holding all 3d print files 
-this file will also have pictures of all those prints
+
 
 changes from original chassis design:
 <ul>
