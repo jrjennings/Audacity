@@ -1,7 +1,7 @@
-directory holding all 3d print files 
+# directory holding all 3d print files 
 
 
-changes from original chassis design:
+## modifications to the original design:
 <ul>
 <li> Dynamixel Bracket
 <li> Dynamixel Coupler
@@ -17,7 +17,7 @@ changes from original chassis design:
 <li> M3 Nut Installation tool
 </ul>
 
-additional parts for Audacity
+## additional parts for Audacity
 <ul> 
 <li> power control panel
 <li> voltage regulator and mount
