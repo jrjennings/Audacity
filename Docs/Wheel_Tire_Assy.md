@@ -1,2 +1,2 @@
- ![Wheel](/images/Wheel.png)
+ ![Alt Text](/images/Wheel.png)
 
