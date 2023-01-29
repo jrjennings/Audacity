@@ -10,6 +10,7 @@
 <li> Fixed Knuckle (for holding gearmotors)
 <li> Steering Knuckle (for holding gearmotor)
 <li> Wheel
+<li> Tire
 <li> dedents for setscrews
 <li> servo parts
 <li> drive modules
