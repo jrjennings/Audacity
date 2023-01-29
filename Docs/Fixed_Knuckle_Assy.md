@@ -1,6 +1,7 @@
- ![Tire and Wheel](/Images/Fixed_Knuckle_Assy.png?raw=true "Tire and Wheel")
+## Fixed Knuckle Assembly
+![Tire and Wheel](/Images/Fixed_Knuckle_Assy.png?raw=true "Tire and Wheel")
 Parts include:
-+ [Fixed Knuckle](/3d%20Prints/Fixed%20Knuckle.stl) 3D Printed Part
++ [Fixed Knuckle](/3d%20Prints/Fixed%20Knuckle.stl) 3D Printed (PETG)
 + 4 × 22mm Bore Bottom Tapped Clamping Mount
 + 2 × 280 RPM Premium Planetary Gear Motor
 + 12mm Hex Wheel Adapter for 4mm Shaft
