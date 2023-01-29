@@ -2,5 +2,6 @@
 Parts include:
 [Fixed Knuckle](/3d%20Prints/Fixed%20Knuckle.stl)
 4 × 22mm Bore Bottom Tapped Clamping Mount
+2 × 280 RPM Premium Planetary Gear Motor
 
 
