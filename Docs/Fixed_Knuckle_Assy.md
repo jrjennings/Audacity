@@ -5,5 +5,7 @@ Parts include:
 + Clamping Mount
 + Planetary Gear Motor
 + 12mm Hex Wheel Adapter for 4mm Shaft
++ (2 ea) set screws
 + (2 ea) socket head screws 8-32 x 3/8" long - for securing Clamping Mount to Fixed Knuckle
 + (1 ea) socket head screw M4 x 12mm - for securing wheel to wheel adapter
++ (3 ea) washers
