@@ -2,4 +2,5 @@
  <p>
 In order to add durability and more grip to smooth surfaces, this modification adds a TPU printed tire to a wheel that has been printed without tread.
  </p>
- 
+ <p>
+ Press Wheel into Tire for snug fit.
