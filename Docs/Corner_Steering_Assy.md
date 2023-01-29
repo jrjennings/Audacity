@@ -2,6 +2,7 @@
 ![Corner Steering Assy](/Images/Corner_Steering_Assy.png?raw=true "Corner Steering Assy")
 Parts include:
 + [Front Corner](/3d%20Prints/Front%20Corner.stl) 3D Printed (PETG)
++ [Dynamixel Bracket](/3d%20Prints/Dynamixel%20Bracket.stl) 3D Printed (PETG)
 + 12mm Hex Wheel Adapter for 4mm Motor Shaft
 + (2 ea) set screws M3 x 4mm - for secureing Wheel Adapter to Motor Shaft
 + (2 ea) socket head screws 6-32 unc x 3/8" - for securing Clamping Mount to Fixed Knuckle
