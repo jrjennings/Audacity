@@ -1,5 +1,5 @@
 ## Fixed Knuckle Assembly
-![Tire and Wheel](/Images/Fixed_Knuckle_Assy.png?raw=true "Tire and Wheel")
+![Fixed Knuckle Assembly](/Images/Fixed_Knuckle_Assy.png?raw=true "Fixed Knuckle Assembly")
 Parts include:
 + [Fixed Knuckle](/3d%20Prints/Fixed%20Knuckle.stl) 3D Printed (PETG)
 + Clamping Mount
