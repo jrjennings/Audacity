@@ -1,7 +1,7 @@
-## Corner Knuckle Assembly
-![Corner Knuckle Assembly](/Images/Corner_Knuckle_Assy.png?raw=true "Corner Knuckle Assembly")
+## Steering Knuckle Assembly
+![Steering Knuckle Assembly](/Images/Corner_Knuckle_Assy.png?raw=true "Corner Knuckle Assembly")
 Parts include:
-+ [Corner Knuckle Right](/3d%20Prints/Corner%20Knuckle%20Right.stl) 3D Printed (PETG)
++ [Steering Knuckle Right](/3d%20Prints/Corner%20Knuckle%20Right.stl) 3D Printed (PETG)
 + Clamping Mount
 + Planetary Gear Motor
 + 12mm Hex Wheel Adapter for 4mm Motor Shaft
