@@ -1,7 +1,7 @@
 ## Fixed Knuckle Assembly
 ![Fixed Knuckle Assembly](/Images/Fixed_Knuckle_Assy.png?raw=true "Fixed Knuckle Assembly")
 Parts include:
-+ [Fixed Knuckle](/3d%20Prints/Fixed%20Knuckle%20Right.stl) 3D Printed (PETG)
++ [Fixed Knuckle](/3d%20Prints/Fixed%20Knuckle%20Left.stl) 3D Printed (PETG)
 + Clamping Mount
 + Planetary Gear Motor
 + 12mm Hex Wheel Adapter for 4mm Motor Shaft
