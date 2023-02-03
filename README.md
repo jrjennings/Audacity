@@ -7,8 +7,10 @@ Make the following modifications to original design:
 <ul>
 <li>Change to gear motors with encoders instead of serial bus servos for drive motors.
 <li>Upgrade the stearing servos to Dynamixels instead of LewanSoul serial bus servos.
-<li>Add an android cell phone for its sensors (eg. accelerometer, compass, GPS) in order to send movement commands to Arduino on the rover via Bluetooth.
-<li>Add camera with machine vision to locate orange cone and navigate towards it
+<li>Add Arduino Mega for controlling acturators.
+<li>Add an android cell phone for its computing power and sensors.
+<li>Add bluetooth module to provide communication between cell phone and Arduino.
+<li>Add camera with machine vision to locate orange cone.
 <li>Add ultrasonic sensors for obstical avoidance.
 <li>Add a bumper touch sensor.
 <li>Add tire to wheel for durability and more grip on smooth surfaces.
