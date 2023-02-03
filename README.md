@@ -12,6 +12,6 @@ Make the following modifications to original design:
 <li>Add bluetooth module to provide communication between cell phone and Arduino.
 <li>Add camera with machine vision to locate orange cone.
 <li>Add ultrasonic sensors for obstical avoidance.
-<li>Add a bumper touch sensor.
+<li>Add a bumper for a touch sensor.
 <li>Add tire to wheel for durability and more grip on smooth surfaces.
 </ul>
