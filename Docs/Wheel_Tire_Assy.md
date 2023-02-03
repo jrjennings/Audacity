@@ -6,5 +6,5 @@ In order to add durability and more grip to smooth surfaces, this modification a
  Press into Tire over Wheel for snug fit.
 
 
-+ [Wheel](https://github.com/jrjennings/Audacity/blob/main/3d%20Prints/Wheel_Right.stl)  3D Printed (PETG)
++ [Wheel](https://github.com/jrjennings/Audacity/blob/main/3d%20Prints/Wheel_Left.stl)  3D Printed (PETG)
 + [Tire](https://github.com/jrjennings/Audacity/blob/main/3d%20Prints/Tire.stl) 3D Printed (TPU)
