@@ -8,8 +8,8 @@
 * Corner Steering joints
 * Corner Knuckle joints
 * Fixed Knuckle joints
-* Wheel
-* Tire
+* Wheels
+* Tires
 
 
 ### additional parts for Audacity
