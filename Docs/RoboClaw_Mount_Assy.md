@@ -3,7 +3,7 @@
 Parts include:
 + [RoboClaw Mount](/3d%20Prints/RoboClaw%20Mount.stl) 3D Printed (PETG)
 + (4 ea) threaded inserts 
-+ (4 ea) washers for M4 screws
-+ (4 ea) socket head screws M4 x 8mm - for securing RoboClaw to Mount
-+ (4 ea) socket head screws M4 x 8mm - for secureing RoboClaw Mount to Audacity Frame
++ (4 ea) washers for M3 screws
++ (4 ea) socket head screws M3 x 8mm - for securing RoboClaw to Mount
++ (4 ea) socket head screws M3 x 8mm - for secureing RoboClaw Mount to Audacity Frame
 
