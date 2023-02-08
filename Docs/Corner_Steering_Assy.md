@@ -6,4 +6,4 @@ Parts include:
 + [Dynamixel Coupler](/3d%20Prints/Dynamixel%20Coupler.stl) 3D Printed (PETG)
 + (1 ea) socket head screw M3 x 16mm - for securing Dynamixel Bracket to Corner Steering
 + (1 ea) washer for M3 screw
-
++ (4 ea) m2x5 screws that come with servo - for securing Coupler to Dynamixel
