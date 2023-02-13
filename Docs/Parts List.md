@@ -4,7 +4,7 @@
 | 1 | Dynamixel Shield | Robotis | 902-0146-000 |  $23.90 |
 | 4 | 4 × 22mm Bore Bottom Tapped Clamping Mount | ServoCity | 585642 | $5.99 |
 | 4 | Planetary Gear Motor, 223 RPM | gobilda | 5202-2402-0027 | $42.99 |
-| 3 | Roboclaw 2x7A Motor Controller | Basicmicro | IMC404 | $79.95 |
+| 2 | Roboclaw 2x7A Motor Controller | Basicmicro | IMC404 | $79.95 |
 | 1 | Arduino Mega 2560 REV3 | Arduino | A000067 | $48.40 |
 | 1 | 4S Lipo Battery 14.8V | Amazon | | $52.00 |
 | 2 | 12mm Hex Wheel Adapter for 6mm Shaft (2-Pack) | Pololu | 2686	| $4.95 |
