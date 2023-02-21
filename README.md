@@ -5,9 +5,9 @@ Build a variant of the Sawppy Rover using the same basic chassis as the Sawppy r
 
 Make the following modifications to original design:
 
-+ Change to 4 wheel drive vs 6 wheel drive.
-+ Change to gear motors with encoders instead of serial bus servos for drive motors.
-+ Upgrade the stearing servos to Dynamixels instead of LewanSoul serial bus servos.
++ Change to 4 wheel drive.
++ Change to gear motors with encoders.
++ Upgrade the stearing servos to Dynamixels.
 + Add Arduino Mega for controlling acturators.
 + Add an android cell phone for its computing power and sensors.
 + Add bluetooth module to provide communication between cell phone and Arduino.
