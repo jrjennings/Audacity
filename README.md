@@ -8,7 +8,7 @@ Make the following modifications to original design:
 + Change to 4 wheel drive.
 + Change to gear motors with encoders.
 + Upgrade the stearing servos to Dynamixels.
-+ Add Arduino Mega for controlling acturators.
++ Add Microcontroller for controlling acturators.
 + Add an android cell phone for its computing power and sensors.
 + Add bluetooth module to provide communication between cell phone and Arduino.
 + Add camera for machine vision to locate orange cone.
