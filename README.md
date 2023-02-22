@@ -6,7 +6,7 @@ Build a variant of the Sawppy Rover using the same basic chassis as the Sawppy r
 Make the following modifications to original design:
 
 + Change to 4 wheel drive by removing the bogie portion of the suspension.
-+ Change to gear motors with encoders.
++ Change to gear motors with encoders for the drive motors.
 + Upgrade the stearing servos to Dynamixels.
 + Add Microcontroller for controlling acturators.
 + Add an android cell phone for its computing power and sensors.
