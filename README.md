@@ -10,7 +10,7 @@ Make the following modifications to original design:
 + Upgrade the stearing servos to Dynamixels.
 + Add Microcontroller for controlling acturators.
 + Add an android cell phone for its computing power and sensors.
-+ Add bluetooth module to provide communication between cell phone and Arduino.
++ Add bluetooth module to provide communication between cell phone and microcontroller.
 + Add camera for machine vision to locate orange cone.
 + Add ultrasonic sensors for obstical avoidance.
 + Add a bumper that doubles as a touch sensor.
