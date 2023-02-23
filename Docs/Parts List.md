@@ -12,3 +12,4 @@
 | 4 | HC-SR04 Ultrasonic Sensors | Amaxon|| <$3.00 |
 | 1 | OpenMV H7 Camera | OpenMV | | $85.00 |
 | 1 | Android Phone with Operating System 2.3 "Gingerbread" or higher |
+| 1 | 9V 5A Step-Down Voltage Regulator | Pololu | 4094 | $27.95 |
