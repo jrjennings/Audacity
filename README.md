@@ -16,6 +16,7 @@ Make the following modifications to original design:
 + Add ultrasonic sensors for obstical avoidance.
 + Add a bumper that doubles as a touch sensor.
 + Add tire to wheel for durability and more grip on smooth surfaces.
++ Add radio receiver for safety stop mechanism.
 
 1. https://github.com/Roger-random/Sawppy_Rover
 2. https://robothon.org/rules-robo-magellan
