@@ -13,7 +13,7 @@
 | 2 | Corner_Knuckle_Left | PETG |||
 | 2 | Corner_Knuckle_Right | PETG |||
 | 2 | Wheels_Right | PETG |||
-| 2 | Wheels_Leftr | PETG |||
+| 2 | Wheels_Left | PETG |||
 | 4 | Tires | TPU |||
 
 
