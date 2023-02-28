@@ -1,15 +1,17 @@
 ## directory holding all 3d print files 
 
-
 ### modifications to the original design:
 
-* Dynamixel Brackets
-* Dynamixel Couplers
-* Corner Steering joints
-* Corner Knuckle joints
-* Fixed Knuckle joints
-* Wheels
-* Tires
+| Quantity | Description | Material |  |  |
+| --- | --- | --- | --- | --- |
+| 4 | Dynamixel Brackets | PETG |||
+| 4 | Dynamixel Couplers | PETG |||
+| 2 | Corner_Steering_A | LF & RR | PETG ||
+| 2 | Corner_Steering_B | RF & LR | PETG ||
+| 2 | Corner_Knuckle_Left | PETG |||
+| 2 | Corner_Knuckle_Right | PETG |||
+| 2 | Wheels_Right | PETG |||
+| 4 | Tires | TPU |||
 
 
 ### additional parts for Audacity
