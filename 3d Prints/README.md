@@ -17,7 +17,7 @@
 | 4 | Tires | TPU |||
 
 
-### additional prints for Audacity
+### additional prints for Audacity:
 | Quantity | Description | Material | Notes |  |
 | --- | --- | --- | --- | --- |
 | 1 | Power_Control_Panel | PETG |||
