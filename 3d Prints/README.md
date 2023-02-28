@@ -4,8 +4,8 @@
 
 | Quantity | Description | Material | Notes |  |
 | --- | --- | --- | --- | --- |
-| 4 | Dynamixel Brackets | PETG |||
-| 4 | Dynamixel Couplers | PETG |||
+| 4 | Dynamixel_Bracket | PETG |||
+| 4 | Dynamixel_Coupler | PETG |||
 | 1 | Corner_Steering_LF | PETG | Left Front ||
 | 1 | Corner_Steering_RF | PETG | Right Front ||
 | 1 | Corner_Steering_LR | PETG | Left Rear ||
