@@ -1,6 +1,6 @@
 ## directory holding all 3d print files 
 
-### modifications to the original design:
+### prints that modify the original design:
 
 | Quantity | Description | Material | Notes |  |
 | --- | --- | --- | --- | --- |
@@ -17,12 +17,14 @@
 | 4 | Tires | TPU |||
 
 
-### additional parts for Audacity
-* power control panel
-* voltage regulator and mount
-* termanal strip and mount
-* Arduino Mega and Mount
-* RoboClaw and mounts
-* Ultrasonic Sensors and mount
-* Machine Vision Camera and mount
+### additional prints for Audacity
+| Quantity | Description | Material | Notes |  |
+| --- | --- | --- | --- | --- |
+| 1 | Power_Control_Panel | PETG |||
+| 1 | Voltage_Regulator_Mount | PETG |||
+| 1 | Termanal_strip_Mount | PETG |||
+| 1 | Arduino_Mega_Mount | PETG |||
+| 1 | RoboClaw_Mount | PETG |||
+| 1 | Ultrasonic_Sensors_Mount | PETG |||
+| 1 | OpenMV_Mount | PETG |||
 
