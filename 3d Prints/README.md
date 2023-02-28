@@ -2,15 +2,18 @@
 
 ### modifications to the original design:
 
-| Quantity | Description | Material |  |  |
+| Quantity | Description | Material | Notes |  |
 | --- | --- | --- | --- | --- |
 | 4 | Dynamixel Brackets | PETG |||
 | 4 | Dynamixel Couplers | PETG |||
-| 2 | Corner_Steering_A | LF & RR | PETG ||
-| 2 | Corner_Steering_B | RF & LR | PETG ||
+| 1 | Corner_Steering_LF | PETG | Left Front ||
+| 1 | Corner_Steering_RF | PETG | Right Front ||
+| 1 | Corner_Steering_LR | PETG | Left Rear ||
+| 1 | Corner_Steering_RR | PETG | Right Rear ||
 | 2 | Corner_Knuckle_Left | PETG |||
 | 2 | Corner_Knuckle_Right | PETG |||
 | 2 | Wheels_Right | PETG |||
+| 2 | Wheels_Leftr | PETG |||
 | 4 | Tires | TPU |||
 
 
