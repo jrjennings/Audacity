@@ -3,8 +3,7 @@
 
 In order to add durability and more grip to smooth surfaces, this modification adds a TPU printed tire to a wheel that has been printed without tread.
  
- Press into Tire over Wheel for snug fit.
-
+ Press Tire over Wheel for snug fit.
 
 + [Wheel](https://github.com/jrjennings/Audacity/blob/main/3d%20Prints/Wheel_Left.stl)  3D Printed (PETG)
 + [Tire](https://github.com/jrjennings/Audacity/blob/main/3d%20Prints/Tire.stl) 3D Printed (TPU)
