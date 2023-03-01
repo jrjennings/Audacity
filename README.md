@@ -10,7 +10,7 @@ Make the following modifications to original design:
 + Change to gear motors with encoders for the drive motors.
 + Upgrade the stearing servos to Dynamixels.
 + Add Microcontroller for controlling acturators.
-+ Add an android cell phone for its computing power and sensors.
++ Add an Android cell phone for its computing power and sensors.
 + Add bluetooth module to provide communication between cell phone and microcontroller.
 + Add camera for machine vision to locate orange cone.
 + Add ultrasonic sensors for obstical avoidance.
