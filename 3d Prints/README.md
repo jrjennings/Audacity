@@ -23,7 +23,7 @@
 | 1 | Power_Control_Panel | PETG |||
 | 1 | Voltage_Regulator_Mount | PETG |||
 | 1 | Termanal_Strip_Mount | PETG |||
-| 1 | Arduino_Mega_Mount | PETG |||
+| 1 | Arduino_Mount | PETG |||
 | 1 | RoboClaw_Mount | PETG |||
 | 1 | Ultrasonic_Sensors_Mount | PETG |||
 | 1 | OpenMV_Mount | PETG |||
