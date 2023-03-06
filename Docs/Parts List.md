@@ -18,5 +18,5 @@
 | 1 | 10A Standard Blade Fuse
 | 1 | DIODE SCHOTTKY 25V 10A TO220AC | Digi-Key | 497-2738-5-ND | $1.74 |
 | 1 | Carbon Film Resistor 10K 1/2 watt ||||
-| 2 | SPST Type Round Switch, 2 Pin 2 Position ON/Off Rocker Switch 14A/36VDC
+| 2 | SPST 2 Pin 2 Position ON/Off Rocker Switch 20A/24VDC
 | 1 | 4 Position Terminal Block Strip
