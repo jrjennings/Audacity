@@ -15,5 +15,8 @@
 | 1 | 9V 5A Step-Down Voltage Regulator | Pololu | 4094 | $27.95 |
 | 1 | RFM69HCW Transceiver Radio Breakout - 433 MHz | Adafruit | PID: 3071 | $9.95 |
 | 1 | Fuse Holder Blade 32V 20A PNL MNT | Digi-Key | F1888-ND | $3.60 |
+| 1 | 10A Fuse
 | 1 | DIODE SCHOTTKY 25V 10A TO220AC | Digi-Key | 497-2738-5-ND | $1.74 |
 | 1 | Carbon Film Resistor 10K 1/2 watt ||||
+| 2 | SPST Type Round Switch, 2 Pin 2 Position ON/Off Rocker Switch 14A/36VDC
+| 1 | 4 Position Terminal Block Strip
