@@ -1,6 +1,7 @@
 ## Corner Steering Assembly
 ![Corner Steering Assy](/Images/Corner_Steering_Assy.png?raw=true "Corner Steering Assy")
-Pictured is an assembly view of the Corner Steering on the right front corner of the rover. The Corner Steering on Left Rear of the rover is the same.  The assembly of the  where the one on the left front corner is the mirror image of the one on the right.
+
+Pictured is an assembly view of the Corner Steering on the right front corner of the rover.
 
 Parts include:
 + [Corner Steering Right Front](/3d%20Prints/Corner_Steering_RF.stl) 3D Printed (PETG)
