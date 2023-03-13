@@ -25,6 +25,7 @@
 | 1 | Termanal_Strip_Mount | PETG |||
 | 1 | Arduino_Mount | PETG |||
 | 1 | RoboClaw_Mount | PETG |||
+| 1 | Bluetooth Module Mount | PETG |||
 | 1 | Ultrasonic_Sensors_Mount | PETG |||
 | 1 | OpenMV_Mount | PETG |||
 | 1 | Radio_Tranceiver_Mount | PETG |||
