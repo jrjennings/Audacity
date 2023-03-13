@@ -1,4 +1,4 @@
-## RoboClaw Mount Assembly
+## Voltage Regulator Mount Assembly
 ![Voltage Regulator Mount Assembly](/Images/Voltage_Regulator_Mount_Assy.png?raw=true "Voltage Regulator Mount Assembly")
 
 Parts include:
