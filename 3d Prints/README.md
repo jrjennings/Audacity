@@ -6,12 +6,11 @@
 | --- | --- | --- | --- | --- |
 | 4 | Dynamixel_Bracket | PETG |||
 | 4 | Dynamixel_Coupler | PETG |||
-| 1 | Corner_Steering_LF | PETG | Left Front ||
-| 1 | Corner_Steering_RF | PETG | Right Front ||
-| 1 | Corner_Steering_LR | PETG | Left Rear ||
-| 1 | Corner_Steering_RR | PETG | Right Rear ||
+| 2 | Corner_Steering_LF_RR | PETG | Left Front & Right Rear||
+| 2 | Corner_Steering_RF_LR | PETG | Right Front & Left Rear||
 | 2 | Corner_Knuckle_Left | PETG |||
 | 2 | Corner_Knuckle_Right | PETG |||
+| 2 | Rocker | PETG |||
 | 2 | Wheels_Right | PETG |||
 | 2 | Wheels_Left | PETG |||
 | 4 | Tires | TPU |||
