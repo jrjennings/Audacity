@@ -1,5 +1,6 @@
 ## Corner Knuckle Assembly
 ![Corner Knuckle Assembly](/Images/Corner_Knuckle_Assy.png?raw=true "Corner Knuckle Assembly")
+
 Pictured is an assembly view of the Corner Knuckle on the left side of the rover.  The Corner Knuckles on the right side of the rover are the same except it is the mirror image of the ones on the right.
 
 Parts include:
