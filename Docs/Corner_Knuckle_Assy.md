@@ -1,10 +1,10 @@
 ## Corner Knuckle Assembly
 ![Corner Knuckle Assembly](/Images/Corner_Knuckle_Assy.png?raw=true "Corner Knuckle Assembly")
 
-Pictured is an assembly view of the Corner Knuckle on the left side of the rover.  The Corner Knuckles on the right side of the rover are the same except it is the mirror image of the ones on the right.
+Pictured is an assembly view of the Corner Knuckle on the left side of the rover.
 
 Parts include:
-+ [Corner_Knuckle_Right](/3d%20Prints/Corner_Knuckle_Left.stl) 3D Printed (PETG)
++ [Corner_Knuckle_Left](/3d%20Prints/Corner_Knuckle_Left.stl) 3D Printed (PETG)
 + Clamping Mount
 + Planetary Gear Motor
 + 12mm Hex Wheel Adapter for 6mm Motor Shaft
