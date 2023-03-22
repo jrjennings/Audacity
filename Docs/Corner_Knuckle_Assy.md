@@ -8,6 +8,8 @@ Parts include:
 + Clamping Mount
 + Planetary Gear Motor
 + 12mm Hex Wheel Adapter for 6mm Motor Shaft
++ (1 ea) Brass Knurled Nuts Threaded Heat Embedment for M3 setscrew
++ (1 ea) set screws M3 x 6mm - for secureing Corner Knuckle Assy to  Corner Steering Shaft
 + (2 ea) set screws M3 x 4mm - for secureing Wheel Adapter to Motor Shaft
 + (2 ea) socket head screws M4 x 10mm - for securing Clamping Mount to Fixed Knuckle
 + (2 ea) washers for M4 screws - for securing Clamping Mount to Fixed Knuckle
