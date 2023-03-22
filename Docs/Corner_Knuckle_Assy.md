@@ -4,7 +4,7 @@
 Pictured is an assembly view of the Corner Knuckle on the right side of the rover.
 
 Parts include:
-+ [Corner_Knuckle](/3d%20Prints/Corner_Knuckle_Left.stl) 3D Printed (PETG)
++ [Corner_Knuckle](/3d%20Prints/Corner_Knuckle_Right.stl) 3D Printed (PETG)
 + Clamping Mount
 + Planetary Gear Motor
 + 12mm Hex Wheel Adapter for 6mm Motor Shaft
