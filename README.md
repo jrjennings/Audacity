@@ -10,13 +10,15 @@ Make the following modifications to original design:
 + Change to gear motors with encoders for the drive motors.
 + Upgrade the stearing servos to Dynamixels.
 + Add Microcontroller for controlling acturators.
-+ Add an Android cell phone for its computing power and sensors.
-+ Add bluetooth module to provide communication between cell phone and microcontroller.
 + Add camera for machine vision to locate orange cone.
 + Add ultrasonic sensors for obstical avoidance.
++ Add GPS module for localization and navigation
++ Add IMU for localization and navigation
 + Add a bumper that doubles as a touch sensor.
 + Add tire to wheel for durability and more grip on smooth surfaces.
-+ Add radio receiver for safety stop mechanism.
++ Add 433mhz radio receiver for safety stop mechanism.
++ Use an Android cell phone to communicate with rover.
++ Bluetooth module to provide communication between cell phone and microcontroller.
 
 1. https://github.com/Roger-random/Sawppy_Rover
 2. https://robothon.org/rules-robo-magellan
