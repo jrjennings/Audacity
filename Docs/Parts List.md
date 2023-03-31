@@ -13,6 +13,7 @@
 | 1 | Mini GPS PA1010D | Adafruit | 4415 | $29.95 |
 | 1 | 9-DOF IMU BNO085 | Adafruit | 4754 | $24.95 |
 | 1 | OpenMV H7 Camera | OpenMV | | $85.00 |
+| 1 | OLED Graphic Display | Adafruit | 326 | $17.50 |
 | 1 | Android Phone with Operating System 2.3 "Gingerbread" or higher |
 | 1 | 9V 5A Step-Down Voltage Regulator | Pololu | 4094 | $27.95 |
 | 1 | RFM69HCW Transceiver Radio Breakout - 433 MHz | Adafruit | PID: 3071 | $9.95 |
