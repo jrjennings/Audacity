@@ -9,15 +9,16 @@ Make the following modifications to original design:
 + Change to 4 wheel drive by modifying the bogie portion of the suspension.
 + Change to gear motors with encoders for the drive motors.
 + Upgrade the stearing servos to Dynamixels.
-+ Add Microcontroller for controlling acturators.
-+ Add camera for machine vision to locate orange cone.
-+ Add ultrasonic sensors for obstical avoidance.
-+ Add GPS module for localization and navigation
-+ Add IMU for localization and navigation
-+ Add a bumper that doubles as a touch sensor.
-+ Add tire to wheel for durability and more grip on smooth surfaces.
-+ Add 433mhz radio receiver for safety stop mechanism.
-+ Use an Android cell phone to communicate with rover.
+
+Add the following components:
++ Microcontroller for controlling acturators.
++ Camera for machine vision to locate orange cone.
++ Ultrasonic sensors for obstical avoidance.
++ GPS module for localization and navigation
++ IMU and Magnitometer for localization and navigation
++ Bumper that doubles as a touch sensor.
++ Tire for durability and more grip on smooth surfaces.
++ 433mhz radio receiver for safety stop mechanism.
 + Bluetooth module to provide communication between cell phone and microcontroller.
 
 1. https://github.com/Roger-random/Sawppy_Rover
