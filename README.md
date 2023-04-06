@@ -9,10 +9,10 @@ Make the following modifications to original design:
 
 + Change to 4 wheel drive by modifying the bogie portion of the suspension.
 + Change to gear motors with encoders for the drive motors.
-+ Upgrade the stearing servos to Dynamixels.
++ Upgrade the steering servos to Dynamixels.
 
 Add the following components:
-+ Microcontroller for controlling acturators.
++ Microcontroller for controlling actuators.
 + Camera for machine vision to locate orange cone.
 + Ultrasonic sensors for obstical avoidance.
 + GPS module for localization and navigation
