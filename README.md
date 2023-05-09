@@ -19,7 +19,6 @@ Add the following components:
 + IMU and Magnitometer for localization and navigation
 + Bumper that doubles as a touch sensor.
 + Tire for durability and more grip on smooth surfaces.
-+ 433mhz radio receiver for safety stop mechanism.
 + Bluetooth module to provide communication between cell phone and microcontroller.
 
 1. https://github.com/Roger-random/Sawppy_Rover
