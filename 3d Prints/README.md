@@ -28,6 +28,6 @@
 | 1 | Ultrasonic_Sensors_Mount | PETG |||
 | 1 | OpenMV_Mount | PETG |||
 | 1 | GPS_Mount | PLA |||
-| 1 | Magnitometer_Mount_Base | PETG |||
-| 1 | Magnitometer_Mount_Mast | PLA |||
+| 1 | Magnitometer_Mount | PLA |||
+| 1 | Magnitometer_Mast_Mount | PETG |||
 | 1 | Bumper_Mount | PETG |||
