@@ -11,7 +11,7 @@
 | 1 | DSD Tech HC-10 Bluetooth module | Amazon | | $11.49 |
 | 4 | HC-SR04 Ultrasonic Sensors | Amaxon|| <$3.00 |
 | 1 | Mini GPS PA1010D | Adafruit | 4415 | $29.95 |
-| 1 | 9-DOF IMU BNO085 | Adafruit | 4754 | $24.95 |
+| 1 | Triple-axis Magnetometer - HMC5883L | Adafruit | 1746 | $9.95 |
 | 1 | OpenMV H7 Plus Camera | OpenMV | | $100.00 |
 | 1 | Android Phone with Operating System 2.3 "Gingerbread" or higher |
 | 1 | 9V 5A Step-Down Voltage Regulator | Pololu | 4094 | $27.95 |
