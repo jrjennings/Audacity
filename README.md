@@ -12,7 +12,7 @@ Make the following modifications to original design:
 + Upgrade the steering servos to Dynamixels.
 
 Add the following components:
-+ Microcontroller for controlling actuators.
++ Microcontroller: processor, memory and I/O peripherals
 + Camera for machine vision to locate orange cone.
 + Ultrasonic sensors for obstical avoidance.
 + GPS module for localization and navigation
