@@ -16,7 +16,7 @@ Add the following components:
 + Camera for machine vision to locate orange cone.
 + Ultrasonic sensors for obstical avoidance.
 + GPS module for localization and navigation
-+ Magnetometer for localization and navigation
++ 9DoF IMU for localization and navigation
 + Bumper that doubles as a touch sensor.
 + Tire for durability and more grip on smooth surfaces.
 + Bluetooth module to provide communication between cell phone and microcontroller.
