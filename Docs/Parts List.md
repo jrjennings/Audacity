@@ -1,6 +1,7 @@
 # Parts List
 | Quantity | Description | Vendor | Part # | Price (ea) |
 | --- | --- | --- | --- | --- |
+| 1 | Dynamixel | Robotis | XL430-W250-T | $49.90 |
 | 1 | Dynamixel Shield | Robotis | 902-0146-000 |  $23.90 |
 | 4 | 36mm Motor Clamping Mount | goBILDA | 1400-0032-0036 | $7.99 |
 | 4 | Planetary Gear Motor, 223 RPM | goBILDA | 5202-2402-0027 | $42.99 |
