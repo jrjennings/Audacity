@@ -4,7 +4,7 @@
 Pictured is an assembly view of the Corner Steering on the right front corner of the rover.
 
 Parts include:
-+ [Corner Steering Right Front](/3d%20Prints/Corner_Steering_RF.stl) 3D Printed (PETG)
++ [Corner Steering Right Front](/3d%20Prints/Corner_Steering_RF_LR.stl) 3D Printed (PETG)
 + [Dynamixel Bracket](/3d%20Prints/Dynamixel%20Bracket.stl) 3D Printed (PETG)
 + [Dynamixel Coupler](/3d%20Prints/Dynamixel%20Coupler.stl) 3D Printed (PETG)
 + (1 ea) socket head screw M3 x 16mm - for securing Dynamixel Bracket to Corner Steering
