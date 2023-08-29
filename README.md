@@ -1,6 +1,6 @@
 # Audacity
 ## a Robo-Magellan variant of the Sawppy rover
-![Audacity](/Images/Audacity2.png?raw=true "Audacity")
+![Audacity](/Images/Audacity.png?raw=true "Audacity")
 Goal:
 
 + Build a variant of the Sawppy Rover using the same basic chassis designed by Rodger Cheng<sup>1</sup> in order to compete in the Seattle Robotics Society Robo-Magellan<sup>2</sup>.
