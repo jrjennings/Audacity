@@ -14,6 +14,9 @@
 | 1 | Mini GPS PA1010D | Adafruit | 4415 | $29.95 |
 | 1 | BNO085 9DoF IMU | Adafruit | 4754 | $24.95 |
 | 1 | Adafruit Feather 32u4 with RFM69HCW Packet Radio 433MHz | Adafruit | 3077 | $24.95 |
+| 1 | uFL SMT Antenna Connector | Adafruit | 1661 | $0.75 |
+| 2 | 433MHz Antenna with uFL cable | Amazon |  | $6.99 |
+| 1 | STEMMA QT/QWIIC Cable 400mm | Digi-Key | 1528-5385-ND |  |
 | 1 | OpenMV H7 Plus Camera | OpenMV | | $100.00 |
 | 1 | Android Phone with Operating System 2.3 "Gingerbread" or higher |
 | 1 | 9V 5A Step-Down Voltage Regulator | Pololu | 4094 | $27.95 |
