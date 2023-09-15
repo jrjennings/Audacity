@@ -21,7 +21,7 @@ Add the following components:
 + Bumper touch sensor.
 + Tire for durability and more grip on smooth surfaces.
 + Bluetooth module to provide communication between cell phone and microcontroller.
-+ 433Mhz Radio for eStop fail-safe device
++ 915MHz Radio for eStop fail-safe device
 
 1. https://github.com/Roger-random/Sawppy_Rover
 2. https://robothon.org/rules-robo-magellan
