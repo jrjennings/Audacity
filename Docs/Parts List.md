@@ -13,7 +13,7 @@
 | 4 | HC-SR04 Ultrasonic Sensors | Amaxon|| <$3.00 |
 | 1 | Mini GPS PA1010D | Adafruit | 4415 | $29.95 |
 | 1 | BNO085 9DoF IMU | Adafruit | 4754 | $24.95 |
-| 1 | ARM® Cortex®-M0 with RFM69HCW Packet Radio 915MHz | Adafruit | 3176 | $24.95 |
+| 1 | ARM Cortex-M0 with Packet Radio 915MHz | Adafruit | 3176 | $24.95 |
 | 1 | uFL SMT Antenna Connector | Adafruit | 1661 | $0.75 |
 | 2 | 915MHz Antenna with uFL cable | Amazon |  | $6.99 |
 | 1 | STEMMA QT/QWIIC Cable 400mm | Digi-Key | 1528-5385-ND |  |
