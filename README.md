@@ -14,6 +14,7 @@ Make the following modifications to original design:
 Add the following components:
 + Microcontroller: processor, memory and I/O peripherals
 + Dynamixel Shield for steering control.
++ Motor Controller to drive motors.
 + Camera for machine vision to locate orange cone.
 + Ultrasonic sensors for obstical avoidance.
 + GPS module for localization and navigation
