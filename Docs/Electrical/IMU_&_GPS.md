@@ -1,2 +1,2 @@
 ## IMU and GPS 
-![IMU and GPS](/Images/IMU_&_GPS.png?raw=true "IMU & GPS Electrical")
+![IMU and GPS](/Images/GPS_&_IMU.png?raw=true "IMU & GPS Electrical")
